@@ -249,4 +249,4 @@ After training, the notebook plots **training vs validation accuracy** (and simi
 
 ## Citation and ethics
 
-If you reuse this pipeline in academic or product work, cite **TensorFlow/Keras** and any **datasets** you use. Automated **violence detection** has **privacy and misuse** implications; deploy only with appropriate **policy, consent, and human oversight**.
+If you reuse this pipeline in academic or product task, cite **TensorFlow/Keras** and any **datasets** you use. Automated **violence detection** has **privacy and misuse** implications; deploy only with appropriate **policy, consent, and human oversight**.
